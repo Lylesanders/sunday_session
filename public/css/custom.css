@@ -2,5 +2,6 @@
  li{ display:inline; padding-right:1.0rem; font-size:1.0rem; } 
  li a{color:purple;}
  ul{text-align:center;}
- footer{background-color: #663399;color:#fffff;}
+ footer{background-color: #663399;color:ffffff;}
+ footer p{font-size:1.5rem; }
  
