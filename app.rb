@@ -72,6 +72,10 @@ get '/contact' do
 	erb :contact
 end
 
+get '/location' do
+	erb :location
+end
+
 
 
 
